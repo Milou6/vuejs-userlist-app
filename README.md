@@ -1,5 +1,13 @@
 # User List Vuejs App
 
+## About
+
+I created this small application in 3 days as a technical challenge for a job interview📘.
+
+The requirements were to use Vue 3.* with TypeScript and Axios, as well as TailwindCSS🍃 for bonus points.
+
+## App details
+
 The app can be accessed via this link : [milou6.github.io/vuejs-userlist-app/](milou6.github.io/vuejs-userlist-app/)
 
 User's prefered theme (Dark/Light) is set upon 1st visit, but can be manually overriden with the 🌙☀️ button on the corner.
